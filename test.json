@@ -1,0 +1,12 @@
+[
+    {
+        "Project": "Hello World",
+        "Description": "Beginner Training",
+        "Status": "Beginner"
+    },
+    {
+        "Project": "Python Programming",
+        "Description": "Installed Python",
+        "Status": "Intermediate"
+    }
+]
