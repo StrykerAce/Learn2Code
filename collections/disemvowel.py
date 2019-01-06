@@ -7,3 +7,9 @@ def disemvowel(word):
     print("".join(w for w in word if w.lower() not in vowels))
     
 disemvowel("abbracadabra")
+
+
+def disemvowel2(word):
+    print("".join(w for w in word if w.lower() not in "aeiou"))
+    
+disemvowel("yodalehihu")
